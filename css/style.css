@@ -1,16 +1,26 @@
 .header {
   display: flex;
   justify-content: space-between;
+  margin-top: 20px;
 }
 
 .header-1 {
   color: #00008b;
+  font-size: 25px;
+  margin-left: 20px;
 }
 
 .header-2 {
+  color: #00008b;
+  font-weight: bold;
   display: flex;
   justify-content: flex-end;
+  padding-right: 30px;
   margin-bottom: 100px;
+}
+
+div p{
+  padding-left: 30px;
 }
 
 .card{
@@ -25,7 +35,7 @@
 
 a{
   font-size: 60px;
-}ß
+}
 
 .box {
   background-color: #00008b;
