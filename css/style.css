@@ -160,6 +160,14 @@ img {
   height: auto;
 }
 
+.title-3{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 25%;
+  font-size: 20px;
+  font-weight: bold;
+}
+
 .body3-3{
   display: grid;
   grid-template-columns: 2fr 2fr;
