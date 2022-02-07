@@ -156,7 +156,7 @@ img {
   height: auto;
 }
 
-.title-3{
+.title-3 {
   margin-top: 50px;
   margin-bottom: 50px;
   margin-left: 25%;
@@ -164,48 +164,48 @@ img {
   font-weight: bold;
 }
 
-.body3-3{
+.body3-3 {
   display: grid;
   grid-template-columns: 400px 400px;
   grid-template-rows: 200px 200px;
   margin-left: 25%;
 }
 
-.education-1{
+.education-1 {
   background-color: rgb(189, 3, 189);
   grid-column: 1/2;
   grid-row: 1/3;
 }
 
-.education-2{
+.education-2 {
   background-color: purple;
   grid-row: 1/2;
   grid-column: 2/3;
   display: flex;
 }
 
-.education-3{
+.education-3 {
   background-color: rosybrown;
   grid-row: 2/3;
   grid-column: 2/3;
   display: flex;
 }
 
-.img-1 img{
+.img-1 img {
   width: 150px;
   height: auto;
   padding-left: 35%;
   padding-top: 50px;
 }
 
-.text-3-1{
+.text-3-1 {
   color: white;
   padding-left: 45%;
   padding-top: 15px;
   padding-bottom: 15px;
 }
 
-.text3-1-1{
+.text3-1-1 {
   color: white;
   line-height: 1.5;
   font-size: 13px;
@@ -213,7 +213,7 @@ img {
   padding-right: 20px;
 }
 
-.img-2 img{
+.img-2 img {
   width: 100px;
   height: auto;
   padding-left: 10%;
@@ -221,24 +221,24 @@ img {
   padding-bottom: 15px;
 }
 
-.text-3-2{
+.text-3-2 {
   color: white;
   padding-bottom: 15px;
   padding-left: 20px;
 }
 
-.text-3-2-1{
+.text-3-2-1 {
   padding: 30px 0px 30px 20px;
 }
 
-.text3-2-2{
+.text3-2-2 {
   color: white;
   line-height: 1.5;
   font-size: 13px;
   padding-left: 20px;
 }
 
-.img-3 img{
+.img-3 img {
   width: 100px;
   height: auto;
   padding-left: 10%;
@@ -246,82 +246,82 @@ img {
   padding-bottom: 15px;
 }
 
-.text-3-3{
+.text-3-3 {
   color: white;
   padding-bottom: 15px;
   padding-left: 20px;
 }
 
-.text-3-3-1{
+.text-3-3-1 {
   padding: 30px 0px 30px 20px;
 }
 
-.text3-3-2{
+.text3-3-2 {
   color: white;
   line-height: 1.5;
   font-size: 13px;
   padding-left: 20px;
 }
 
-.blog{
+.blog {
   background-color: rgb(245, 244, 244);
   margin-top: 100px;
   margin-bottom: 100px;
 }
 
-.title-4{
-  padding: 20px 0px 20px 220px
+.title-4 {
+  padding: 20px 0px 20px 220px;
 }
 
-.blog-1{
+.blog-1 {
   padding-bottom: 20px;
   font-size: 13px;
 }
 
-.blog-2{
+.blog-2 {
   font-size: 20px;
   font-weight: bold;
   color: rgb(110, 110, 110);
 }
 
-.body-2{
+.body-2 {
   padding-bottom: 50px;
 }
 
-.body-2-2{
+.body-2-2 {
   display: flex;
   justify-content: center;
   color: rgb(110, 110, 110);
 }
 
-.card-1{
+.card-1 {
   background-color: white;
   width: 300px;
   border-radius: 10px;
 }
 
-.card__img img{
+.card__img img {
   width: 100%;
   border-radius: 10px 10px 0px 0px;
 }
 
-.card__content{
+.card__content {
   padding: 20px 20px 20px 20px;
   color: rgb(110, 110, 110);
 }
 
-.card__content-ttl{
+.card__content-ttl {
   padding-bottom: 20px;
 }
 
-.card__content-tag{
+.card__content-tag {
   display: flex;
   justify-content: space-between;
   padding: 0px 20px 20px 20px;
   font-size: 13px;
 }
 
-.card-2{
+.card-2 {
   background-color: white;
   width: 300px;
   margin-left: 50px;
@@ -329,13 +329,13 @@ img {
   border-radius: 10px;
 }
 
-.card-3{
-background-color: white;
-width: 300px;
-border-radius: 10px;
+.card-3 {
+  background-color: white;
+  width: 300px;
+  border-radius: 10px;
 }
 
-.button-1{
+.button-1 {
   width: 180px;
   padding: 20px 0;
   font-size: 13px;
@@ -347,20 +347,20 @@ border-radius: 10px;
   border: solid rgb(204, 1, 160);
 }
 
-.company{
+.company {
   margin-bottom: 100px;
 }
 
-.company-title{
+.company-title {
   margin-left: 360px;
   color: rgb(110, 110, 110);
 }
 
-.company-title-1{
+.company-title-1 {
   font-size: 13px;
 }
 
-.company-title-2{
+.company-title-2 {
   color: rgb(110, 110, 110);
   font-size: 20px;
   font-weight: bold;
@@ -387,15 +387,97 @@ table th {
   background-color: #dedede;
 }
 
-.recruit-interview{
+.recruit-interview {
   display: flex;
   width: 100%;
+  margin-bottom: 100px;
 }
 
-.recruit-img img{
-  width: 100%;
+.recruit-img-text {
+  width: 50%;
+  position: relative;
 }
 
-.interview-img img{
+.recruit-img img {
   width: 100%;
+  height: auto;
+}
+
+.recruit-text {
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 45%;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.interview-img-text {
+  width: 50%;
+  position: relative;
+}
+
+.interview-img img {
+  width: 100%;
+  height: auto;
+}
+
+.interview-text {
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.inquiry-text {
+  font-size: 18px;
+  color: rgb(110, 110, 110);
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.line {
+  font-size: 30px;
+  color: rgb(204, 1, 160);
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.inquiry-button {
+  position: relative;
+  width: 250px;
+  padding: 25px 0;
+  font-size: 15px;
+  border-radius: 30px;
+  text-align: center;
+  background: linear-gradient(90deg, rgb(236, 67, 200), rgb(204, 1, 160));
+  color: white;
+  box-shadow: 0 5px 0 rgb(119, 1, 94);
+  transform: translateY(10px);
+  display: block;
+  margin: auto;
+}
+
+.inquiry-button::before {
+  content: "";
+  position: absolute;
+  background: url(../img/img/mailicon.svg) no-repeat;
+  left: 15px;
+  top: 50%;
+  background-size: cover;
+  width: 30px;
+  height: 30px;
+  transform: translate(0, -50%);
+}
+
+.footer {
+  margin-top: 100px;
+  background-color: rgb(245, 244, 244);
+  color: rgb(110, 110, 110);
+  font-size: 10px;
+  height: 60px;
+  text-align: center;
 }
