@@ -46,9 +46,11 @@ a {
 }
 
 .first-1 {
-  font-size: 40px;
+  font-size: 60px;
   line-height: 2;
   margin-bottom: 40px;
+  font-family: "Amatic SC", cursive;
+  color: #d8316b;
 }
 
 .growth {
@@ -107,7 +109,7 @@ dt {
 }
 
 .news {
-  background-color: firebrick;
+  background-color: #d8316b;
   color: aliceblue;
   width: 20px;
   padding: 0px 10px 0px 10px;
@@ -119,6 +121,7 @@ dt {
   width: 100%;
   margin-top: 100px;
   height: 450px;
+  color: #d8316b;
 }
 
 .title-2 {
@@ -267,6 +270,7 @@ img {
   background-color: rgb(245, 244, 244);
   margin-top: 100px;
   margin-bottom: 100px;
+  color: #d8316b;
 }
 
 .title-4 {
@@ -358,6 +362,7 @@ img {
 
 .company-title-1 {
   font-size: 13px;
+  color: #d8316b;
 }
 
 .company-title-2 {
