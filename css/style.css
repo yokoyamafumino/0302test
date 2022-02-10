@@ -129,27 +129,29 @@ dt {
 }
 
 .about-2 {
-  margin-left: 50%;
+  margin-left: 47%;
   padding-bottom: 10px;
   font-size: 10px;
   font-weight: bold;
 }
 
 .technology {
-  margin-left: 43%;
+  margin-left: 40%;
   font-size: 20px;
   color: rgb(110, 110, 110);
 }
 
 .body {
   display: flex;
-  padding-right: 15%;
-  padding-left: 18%;
+  justify-content: center;
+  align-items: center;
 }
 
 .text-2 {
+  justify-content: center;
+  align-items: center;
   margin-right: 200px;
-  line-height: 1.5;
+  line-height: 2;
   font-size: 14px;
   color: rgb(110, 110, 110);
 }
@@ -162,7 +164,7 @@ img {
 .title-3 {
   margin-top: 50px;
   margin-bottom: 50px;
-  margin-left: 25%;
+  margin-left: 23%;
   font-size: 20px;
   font-weight: bold;
 }
@@ -171,7 +173,8 @@ img {
   display: grid;
   grid-template-columns: 400px 400px;
   grid-template-rows: 200px 200px;
-  margin-left: 25%;
+  justify-content: center;
+  text-align: center;
 }
 
 .education-1 {
@@ -197,13 +200,13 @@ img {
 .img-1 img {
   width: 150px;
   height: auto;
-  padding-left: 35%;
+  justify-content: center;
   padding-top: 50px;
 }
 
 .text-3-1 {
   color: white;
-  padding-left: 45%;
+  text-align: center;
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -274,7 +277,7 @@ img {
 }
 
 .title-4 {
-  padding: 20px 0px 20px 220px;
+  padding: 20px 0px 20px 200px;
 }
 
 .blog-1 {
@@ -374,7 +377,7 @@ img {
 }
 
 table {
-  width: 50%;
+  width: 760px;
   border-collapse: collapse;
   text-align: left;
   font-size: 13px;
